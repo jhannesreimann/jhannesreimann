@@ -61,5 +61,5 @@ text { font-family: ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Cons
 <text x="389" y="482.5" xml:space="preserve"><tspan class="header">- GitHub Stats </tspan><tspan class="rule">-------------------------------------------</tspan></text>
 <text x="389" y="502.5" xml:space="preserve"><tspan class="label">Repos: 12</tspan><tspan class="dim">   </tspan><tspan class="label">Stars: 0</tspan><tspan class="dim">   </tspan><tspan class="label">Followers: 6</tspan></text>
 <text x="389" y="522.5" xml:space="preserve"><tspan class="label">Commits:</tspan><tspan class="dim">...............................................</tspan><tspan class="value">596</tspan></text>
-<text x="389" y="542.5" xml:space="preserve"><tspan class="label">Lines of Code on GitHub:</tspan><tspan class="dim">..</tspan><tspan class="value">830,100 </tspan><tspan class="dim">( </tspan><tspan class="plus">800,679++</tspan><tspan class="value">,  </tspan><tspan class="minus">29,421--</tspan><tspan class="dim"> )</tspan></text>
+<text x="389" y="542.5" xml:space="preserve"><tspan class="label">Lines of Code on GitHub:</tspan><tspan class="dim">..</tspan><tspan class="value">830,143 </tspan><tspan class="dim">( </tspan><tspan class="plus">800,720++</tspan><tspan class="value">,  </tspan><tspan class="minus">29,423--</tspan><tspan class="dim"> )</tspan></text>
 </svg>
