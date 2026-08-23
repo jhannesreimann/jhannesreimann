@@ -33,6 +33,9 @@ jobs:
           output: dist/github-contribution-grid-snake-dark.svg
           theme: matrix
 
+      - name: Recolor to match profile card
+        run: python3 scripts/recolor_snake.py dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
