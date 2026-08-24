@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       # real game of Snake: grows one segment per commit cell it eats,
       # hunts cells via BFS and avoids its own body.
       # https://github.com/dahan8473/snake-and-commits
