@@ -27,21 +27,22 @@ STOP_RE = re.compile(r"([\d.]+%\s*\{\s*fill:\s*)(#[0-9a-fA-F]{6})(\s*;)")
 
 
 def recolor_keyframes(svg):
-    """Inside keyframes that animate the snake, fade the post-head ramp blue."""
+    """Inside keyframes that animate the snake, fade the post-head ramp blue.
+
+    Cells can be visited more than once, so everything after the FIRST blue
+    stop gets the blue treatment - the initial dot state stays green.
+    """
     def fix_block(m):
         block = m.group(0)
         if SNAKE_BODY not in block and SNAKE_HEAD not in block:
             return block
-        stops = list(STOP_RE.finditer(block))
-        last_blue = max(
-            (s.start() for s in stops if s.group(2) in (SNAKE_BODY, SNAKE_HEAD)),
-            default=-1,
-        )
-        out, pos = [], 0
-        for s in stops:
+        out, pos, seen_blue = [], 0, False
+        for s in STOP_RE.finditer(block):
             out.append(block[pos:s.end(1)])
             color = s.group(2)
-            if s.start() > last_blue and color in GREEN_RAMP:
+            if color in (SNAKE_BODY, SNAKE_HEAD):
+                seen_blue = True
+            elif seen_blue and color in GREEN_RAMP:
                 color = GREEN_RAMP[color]
             out.append(color + s.group(3))
             pos = s.end()
