@@ -605,7 +605,6 @@
   <rect class="c0_3" x="16" y="68" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c0_4" x="16" y="82" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c0_5" x="16" y="96" width="11" height="11" rx="2.5" fill="#161b22"/>
-  <rect class="c0_6" x="16" y="110" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_0" x="30" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_1" x="30" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_2" x="30" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
@@ -965,6 +964,7 @@
   <rect class="c51_6" x="730" y="110" width="11" height="11" rx="2.5" fill="#006d32"/>
   <rect class="c52_0" x="744" y="26" width="11" height="11" rx="2.5" fill="#0e4429"/>
   <rect class="c52_1" x="744" y="40" width="11" height="11" rx="2.5" fill="#0e4429"/>
+  <rect class="c52_2" x="744" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
   <text class="lab" x="44" y="14">sep</text>
   <text class="lab" x="100" y="14">oct</text>
   <text class="lab" x="156" y="14">nov</text>
@@ -985,91 +985,91 @@
   <rect x="679" y="132" width="11" height="11" rx="2.5" fill="#39d353"/>
   <text class="lab" x="701" y="141">more</text>
   <text class="lab" x="16" y="141">$ commits eaten:</text>
-  <text class="cnt m1" opacity="0" x="118" y="141">1/476</text>
-  <text class="cnt m2" opacity="0" x="118" y="141">2/476</text>
-  <text class="cnt m3" opacity="0" x="118" y="141">3/476</text>
-  <text class="cnt m4" opacity="0" x="118" y="141">5/476</text>
-  <text class="cnt m5" opacity="0" x="118" y="141">6/476</text>
-  <text class="cnt m6" opacity="0" x="118" y="141">8/476</text>
-  <text class="cnt m7" opacity="0" x="118" y="141">9/476</text>
-  <text class="cnt m8" opacity="0" x="118" y="141">12/476</text>
-  <text class="cnt m9" opacity="0" x="118" y="141">18/476</text>
-  <text class="cnt m10" opacity="0" x="118" y="141">19/476</text>
-  <text class="cnt m11" opacity="0" x="118" y="141">22/476</text>
-  <text class="cnt m12" opacity="0" x="118" y="141">29/476</text>
-  <text class="cnt m13" opacity="0" x="118" y="141">31/476</text>
-  <text class="cnt m14" opacity="0" x="118" y="141">33/476</text>
-  <text class="cnt m15" opacity="0" x="118" y="141">34/476</text>
-  <text class="cnt m16" opacity="0" x="118" y="141">35/476</text>
-  <text class="cnt m17" opacity="0" x="118" y="141">37/476</text>
-  <text class="cnt m18" opacity="0" x="118" y="141">41/476</text>
-  <text class="cnt m19" opacity="0" x="118" y="141">44/476</text>
-  <text class="cnt m20" opacity="0" x="118" y="141">45/476</text>
-  <text class="cnt m21" opacity="0" x="118" y="141">46/476</text>
-  <text class="cnt m22" opacity="0" x="118" y="141">49/476</text>
-  <text class="cnt m23" opacity="0" x="118" y="141">53/476</text>
-  <text class="cnt m24" opacity="0" x="118" y="141">55/476</text>
-  <text class="cnt m25" opacity="0" x="118" y="141">58/476</text>
-  <text class="cnt m26" opacity="0" x="118" y="141">62/476</text>
-  <text class="cnt m27" opacity="0" x="118" y="141">64/476</text>
-  <text class="cnt m28" opacity="0" x="118" y="141">65/476</text>
-  <text class="cnt m29" opacity="0" x="118" y="141">66/476</text>
-  <text class="cnt m30" opacity="0" x="118" y="141">67/476</text>
-  <text class="cnt m31" opacity="0" x="118" y="141">69/476</text>
-  <text class="cnt m32" opacity="0" x="118" y="141">75/476</text>
-  <text class="cnt m33" opacity="0" x="118" y="141">76/476</text>
-  <text class="cnt m34" opacity="0" x="118" y="141">77/476</text>
-  <text class="cnt m35" opacity="0" x="118" y="141">80/476</text>
-  <text class="cnt m36" opacity="0" x="118" y="141">82/476</text>
-  <text class="cnt m37" opacity="0" x="118" y="141">83/476</text>
-  <text class="cnt m38" opacity="0" x="118" y="141">92/476</text>
-  <text class="cnt m39" opacity="0" x="118" y="141">93/476</text>
-  <text class="cnt m40" opacity="0" x="118" y="141">98/476</text>
-  <text class="cnt m41" opacity="0" x="118" y="141">146/476</text>
-  <text class="cnt m42" opacity="0" x="118" y="141">150/476</text>
-  <text class="cnt m43" opacity="0" x="118" y="141">154/476</text>
-  <text class="cnt m44" opacity="0" x="118" y="141">168/476</text>
-  <text class="cnt m45" opacity="0" x="118" y="141">169/476</text>
-  <text class="cnt m46" opacity="0" x="118" y="141">172/476</text>
-  <text class="cnt m47" opacity="0" x="118" y="141">173/476</text>
-  <text class="cnt m48" opacity="0" x="118" y="141">175/476</text>
-  <text class="cnt m49" opacity="0" x="118" y="141">181/476</text>
-  <text class="cnt m50" opacity="0" x="118" y="141">191/476</text>
-  <text class="cnt m51" opacity="0" x="118" y="141">193/476</text>
-  <text class="cnt m52" opacity="0" x="118" y="141">195/476</text>
-  <text class="cnt m53" opacity="0" x="118" y="141">196/476</text>
-  <text class="cnt m54" opacity="0" x="118" y="141">198/476</text>
-  <text class="cnt m55" opacity="0" x="118" y="141">220/476</text>
-  <text class="cnt m56" opacity="0" x="118" y="141">223/476</text>
-  <text class="cnt m57" opacity="0" x="118" y="141">237/476</text>
-  <text class="cnt m58" opacity="0" x="118" y="141">243/476</text>
-  <text class="cnt m59" opacity="0" x="118" y="141">244/476</text>
-  <text class="cnt m60" opacity="0" x="118" y="141">250/476</text>
-  <text class="cnt m61" opacity="0" x="118" y="141">254/476</text>
-  <text class="cnt m62" opacity="0" x="118" y="141">270/476</text>
-  <text class="cnt m63" opacity="0" x="118" y="141">272/476</text>
-  <text class="cnt m64" opacity="0" x="118" y="141">282/476</text>
-  <text class="cnt m65" opacity="0" x="118" y="141">289/476</text>
-  <text class="cnt m66" opacity="0" x="118" y="141">296/476</text>
-  <text class="cnt m67" opacity="0" x="118" y="141">315/476</text>
-  <text class="cnt m68" opacity="0" x="118" y="141">316/476</text>
-  <text class="cnt m69" opacity="0" x="118" y="141">324/476</text>
-  <text class="cnt m70" opacity="0" x="118" y="141">333/476</text>
-  <text class="cnt m71" opacity="0" x="118" y="141">334/476</text>
-  <text class="cnt m72" opacity="0" x="118" y="141">343/476</text>
-  <text class="cnt m73" opacity="0" x="118" y="141">348/476</text>
-  <text class="cnt m74" opacity="0" x="118" y="141">351/476</text>
-  <text class="cnt m75" opacity="0" x="118" y="141">353/476</text>
-  <text class="cnt m76" opacity="0" x="118" y="141">354/476</text>
-  <text class="cnt m77" opacity="0" x="118" y="141">362/476</text>
-  <text class="cnt m78" opacity="0" x="118" y="141">369/476</text>
-  <text class="cnt m79" opacity="0" x="118" y="141">378/476</text>
-  <text class="cnt m80" opacity="0" x="118" y="141">387/476</text>
-  <text class="cnt m81" opacity="0" x="118" y="141">389/476</text>
-  <text class="cnt m82" opacity="0" x="118" y="141">390/476</text>
-  <text class="cnt m83" opacity="0" x="118" y="141">415/476</text>
-  <text class="cnt m84" opacity="0" x="118" y="141">428/476</text>
-  <text class="cnt m85" opacity="0" x="118" y="141">445/476</text>
-  <text class="cnt m86" opacity="0" x="118" y="141">476/476</text>
+  <text class="cnt m1" opacity="0" x="118" y="141">1/481</text>
+  <text class="cnt m2" opacity="0" x="118" y="141">2/481</text>
+  <text class="cnt m3" opacity="0" x="118" y="141">3/481</text>
+  <text class="cnt m4" opacity="0" x="118" y="141">5/481</text>
+  <text class="cnt m5" opacity="0" x="118" y="141">6/481</text>
+  <text class="cnt m6" opacity="0" x="118" y="141">8/481</text>
+  <text class="cnt m7" opacity="0" x="118" y="141">9/481</text>
+  <text class="cnt m8" opacity="0" x="118" y="141">12/481</text>
+  <text class="cnt m9" opacity="0" x="118" y="141">18/481</text>
+  <text class="cnt m10" opacity="0" x="118" y="141">19/481</text>
+  <text class="cnt m11" opacity="0" x="118" y="141">22/481</text>
+  <text class="cnt m12" opacity="0" x="118" y="141">29/481</text>
+  <text class="cnt m13" opacity="0" x="118" y="141">31/481</text>
+  <text class="cnt m14" opacity="0" x="118" y="141">33/481</text>
+  <text class="cnt m15" opacity="0" x="118" y="141">34/481</text>
+  <text class="cnt m16" opacity="0" x="118" y="141">35/481</text>
+  <text class="cnt m17" opacity="0" x="118" y="141">37/481</text>
+  <text class="cnt m18" opacity="0" x="118" y="141">41/481</text>
+  <text class="cnt m19" opacity="0" x="118" y="141">44/481</text>
+  <text class="cnt m20" opacity="0" x="118" y="141">45/481</text>
+  <text class="cnt m21" opacity="0" x="118" y="141">46/481</text>
+  <text class="cnt m22" opacity="0" x="118" y="141">49/481</text>
+  <text class="cnt m23" opacity="0" x="118" y="141">53/481</text>
+  <text class="cnt m24" opacity="0" x="118" y="141">55/481</text>
+  <text class="cnt m25" opacity="0" x="118" y="141">58/481</text>
+  <text class="cnt m26" opacity="0" x="118" y="141">62/481</text>
+  <text class="cnt m27" opacity="0" x="118" y="141">64/481</text>
+  <text class="cnt m28" opacity="0" x="118" y="141">65/481</text>
+  <text class="cnt m29" opacity="0" x="118" y="141">66/481</text>
+  <text class="cnt m30" opacity="0" x="118" y="141">67/481</text>
+  <text class="cnt m31" opacity="0" x="118" y="141">69/481</text>
+  <text class="cnt m32" opacity="0" x="118" y="141">75/481</text>
+  <text class="cnt m33" opacity="0" x="118" y="141">76/481</text>
+  <text class="cnt m34" opacity="0" x="118" y="141">77/481</text>
+  <text class="cnt m35" opacity="0" x="118" y="141">80/481</text>
+  <text class="cnt m36" opacity="0" x="118" y="141">82/481</text>
+  <text class="cnt m37" opacity="0" x="118" y="141">83/481</text>
+  <text class="cnt m38" opacity="0" x="118" y="141">92/481</text>
+  <text class="cnt m39" opacity="0" x="118" y="141">93/481</text>
+  <text class="cnt m40" opacity="0" x="118" y="141">98/481</text>
+  <text class="cnt m41" opacity="0" x="118" y="141">146/481</text>
+  <text class="cnt m42" opacity="0" x="118" y="141">150/481</text>
+  <text class="cnt m43" opacity="0" x="118" y="141">154/481</text>
+  <text class="cnt m44" opacity="0" x="118" y="141">168/481</text>
+  <text class="cnt m45" opacity="0" x="118" y="141">169/481</text>
+  <text class="cnt m46" opacity="0" x="118" y="141">172/481</text>
+  <text class="cnt m47" opacity="0" x="118" y="141">173/481</text>
+  <text class="cnt m48" opacity="0" x="118" y="141">175/481</text>
+  <text class="cnt m49" opacity="0" x="118" y="141">181/481</text>
+  <text class="cnt m50" opacity="0" x="118" y="141">191/481</text>
+  <text class="cnt m51" opacity="0" x="118" y="141">193/481</text>
+  <text class="cnt m52" opacity="0" x="118" y="141">195/481</text>
+  <text class="cnt m53" opacity="0" x="118" y="141">196/481</text>
+  <text class="cnt m54" opacity="0" x="118" y="141">198/481</text>
+  <text class="cnt m55" opacity="0" x="118" y="141">220/481</text>
+  <text class="cnt m56" opacity="0" x="118" y="141">223/481</text>
+  <text class="cnt m57" opacity="0" x="118" y="141">237/481</text>
+  <text class="cnt m58" opacity="0" x="118" y="141">243/481</text>
+  <text class="cnt m59" opacity="0" x="118" y="141">244/481</text>
+  <text class="cnt m60" opacity="0" x="118" y="141">250/481</text>
+  <text class="cnt m61" opacity="0" x="118" y="141">254/481</text>
+  <text class="cnt m62" opacity="0" x="118" y="141">270/481</text>
+  <text class="cnt m63" opacity="0" x="118" y="141">272/481</text>
+  <text class="cnt m64" opacity="0" x="118" y="141">282/481</text>
+  <text class="cnt m65" opacity="0" x="118" y="141">289/481</text>
+  <text class="cnt m66" opacity="0" x="118" y="141">296/481</text>
+  <text class="cnt m67" opacity="0" x="118" y="141">315/481</text>
+  <text class="cnt m68" opacity="0" x="118" y="141">316/481</text>
+  <text class="cnt m69" opacity="0" x="118" y="141">324/481</text>
+  <text class="cnt m70" opacity="0" x="118" y="141">333/481</text>
+  <text class="cnt m71" opacity="0" x="118" y="141">334/481</text>
+  <text class="cnt m72" opacity="0" x="118" y="141">343/481</text>
+  <text class="cnt m73" opacity="0" x="118" y="141">348/481</text>
+  <text class="cnt m74" opacity="0" x="118" y="141">351/481</text>
+  <text class="cnt m75" opacity="0" x="118" y="141">353/481</text>
+  <text class="cnt m76" opacity="0" x="118" y="141">354/481</text>
+  <text class="cnt m77" opacity="0" x="118" y="141">362/481</text>
+  <text class="cnt m78" opacity="0" x="118" y="141">369/481</text>
+  <text class="cnt m79" opacity="0" x="118" y="141">378/481</text>
+  <text class="cnt m80" opacity="0" x="118" y="141">387/481</text>
+  <text class="cnt m81" opacity="0" x="118" y="141">389/481</text>
+  <text class="cnt m82" opacity="0" x="118" y="141">395/481</text>
+  <text class="cnt m83" opacity="0" x="118" y="141">420/481</text>
+  <text class="cnt m84" opacity="0" x="118" y="141">433/481</text>
+  <text class="cnt m85" opacity="0" x="118" y="141">450/481</text>
+  <text class="cnt m86" opacity="0" x="118" y="141">481/481</text>
   
 </svg>
