@@ -39,7 +39,7 @@ text { font-family: ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Cons
 <text class="face" x="28" y="542.5" xml:space="preserve">           .%#*#*=::::::::.::::</text>
 <text x="389" y="42.5" xml:space="preserve"><tspan class="header">jhannesreimann@github</tspan><tspan class="rule"> -------------------------------------</tspan></text>
 <text x="389" y="62.5" xml:space="preserve"><tspan class="label">OS:</tspan><tspan class="dim">...................................</tspan><tspan class="value">Arch Linux + Android</tspan></text>
-<text x="389" y="82.5" xml:space="preserve"><tspan class="label">Uptime:</tspan><tspan class="dim">.........................</tspan><tspan class="value">5 years, 8 months, 19 days</tspan></text>
+<text x="389" y="82.5" xml:space="preserve"><tspan class="label">Uptime:</tspan><tspan class="dim">.........................</tspan><tspan class="value">5 years, 8 months, 20 days</tspan></text>
 <text x="389" y="102.5" xml:space="preserve"><tspan class="label">Host:</tspan><tspan class="dim">.............................</tspan><tspan class="value">Hasso Plattner Institute</tspan></text>
 <text x="389" y="122.5" xml:space="preserve"><tspan class="label">Focus:</tspan><tspan class="dim">..........</tspan><tspan class="value">MSc Computer Science, Security Engineering</tspan></text>
 <text x="389" y="142.5" xml:space="preserve"><tspan class="label">Work:</tspan><tspan class="dim">...............................</tspan><tspan class="value">Working student at SAP</tspan></text>
@@ -62,5 +62,5 @@ text { font-family: ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Cons
 <text x="389" y="482.5" xml:space="preserve"><tspan class="header">- GitHub Stats </tspan><tspan class="rule">-------------------------------------------</tspan></text>
 <text x="389" y="502.5" xml:space="preserve"><tspan class="label">Repos: 12</tspan><tspan class="dim">   </tspan><tspan class="label">Stars: 0</tspan><tspan class="dim">   </tspan><tspan class="label">Followers: 6</tspan></text>
 <text x="389" y="522.5" xml:space="preserve"><tspan class="label">Commits:</tspan><tspan class="dim">...............................................</tspan><tspan class="value">604</tspan></text>
-<text x="389" y="542.5" xml:space="preserve"><tspan class="label">Lines of Code on GitHub:</tspan><tspan class="dim">..</tspan><tspan class="value">830,487 </tspan><tspan class="dim">( </tspan><tspan class="plus">800,928++</tspan><tspan class="value">,  </tspan><tspan class="minus">29,559--</tspan><tspan class="dim"> )</tspan></text>
+<text x="389" y="542.5" xml:space="preserve"><tspan class="label">Lines of Code on GitHub:</tspan><tspan class="dim">..</tspan><tspan class="value">830,495 </tspan><tspan class="dim">( </tspan><tspan class="plus">800,932++</tspan><tspan class="value">,  </tspan><tspan class="minus">29,563--</tspan><tspan class="dim"> )</tspan></text>
 </svg>
