@@ -292,7 +292,7 @@ def build_panel_lines(s):
         kv_line("Uptime", uptime),
         kv_line("Host", "Hasso Plattner Institute"),
         kv_line("Focus", "MSc Computer Science, Security Engineering"),
-        kv_line("Work", "Working student at SAP"),
+        kv_line("Work", "Pentesting working student at HiSolutions"),
     ]
     lines.append(blank())
     lines.append(rule_line("Languages"))
@@ -306,7 +306,7 @@ def build_panel_lines(s):
     lines.append(rule_line("Contact"))
     lines += [
         kv_line("Email.Personal", EMAIL),
-        kv_line("Email.Work", "jhannes.reimann@sap.com"),
+        kv_line("Email.Work", "jreimann@hisolutions.com"),
         kv_line("Email.Uni", "Jhannes.Reimann@student.hpi.de"),
         kv_line("LinkedIn", LINKEDIN),
         kv_line("Discord", "noaa"),

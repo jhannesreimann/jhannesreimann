@@ -1,7 +1,7 @@
 # Hi, I'm Jhannes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhannes-reimann/"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+student+at+HPI;Security+Engineering+focus;Working+student+at+SAP;Breaking+things+to+understand+them+better" alt="MSc Computer Science student at HPI, Security Engineering focus, working student at SAP" /></a>
+  <a href="https://www.linkedin.com/in/jhannes-reimann/"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+student+at+HPI;Security+Engineering+focus;Pentesting+working+student+at+HiSolutions;Breaking+things+to+understand+them+better" alt="MSc Computer Science student at HPI, Security Engineering focus, pentesting working student at HiSolutions" /></a>
 </p>
 
 I live in Potsdam, Germany and build tools for problems I actually have. Lately that meant appointment scraping, a pocket-sized pentest rig and making file transfers between my laptop and Android phone less annoying.
@@ -16,7 +16,7 @@ I live in Potsdam, Germany and build tools for problems I actually have. Lately 
   </picture>
 </p>
 
-I study Computer Science at the Hasso Plattner Institute, Masters track, with a focus on Security Engineering. On the side I work at SAP as a working student. Security is the common thread in most of what I tinker with: figuring out how systems fail turns out to be the fastest way to understand how they work.
+I study Computer Science at the Hasso Plattner Institute, Masters track, with a focus on Security Engineering. On the side I work as a working student in the pentesting team at HiSolutions, before that I was at SAP and in information security at Die Autobahn GmbH des Bundes. Security is the common thread in most of what I tinker with: figuring out how systems fail turns out to be the fastest way to understand how they work.
 
 ## What I built
 
@@ -32,8 +32,8 @@ From a network security seminar at HPI: we ran a deliberately misbehaving mail s
 **[dns-resolver-recommender](https://github.com/jhannesreimann/dns-resolver-recommender)**
 Measures and ranks DNS-over-HTTPS resolvers straight from the browser. A Rust WebAssembly core runs the latency probes so timing happens client-side, a React frontend shows the ranking and a small Python backend takes care of resolver rotation. Another HPI course project, mirrored from GitLab, running at [dns.diic-hpi.org](https://dns.diic-hpi.org/).
 
-**[DankQuickShare](https://github.com/jhannesreimann/dms-quickshare)**
-Android Quick Share integration for DankMaterialShell. A QML plugin on top and a small Rust daemon underneath that takes care of mDNS, Bluetooth LE and TCP transfers.
+**[Quick Share for Dux Shell](https://github.com/jhannesreimann/dux-quickshare)**
+Google Quick Share on Linux: send and receive files, links and text with Android phones right from the Dux Shell bar, no pairing, no cloud, no app on the phone. A QML plugin on top and a native Rust daemon underneath that speaks the Quick Share protocol. Bluetooth LE sets up the connection, the data then moves over Wi-Fi, even when phone and PC are on different networks. Submitted to the official Dux plugin registry.
 
 ## Stack
 
@@ -65,7 +65,7 @@ Mostly Python with Flask or FastAPI on the backend side, React plus Vite and Tai
 
 ## Currently
 
-Poking at ChonkyFlipper again. Before that it was the mail client selftest and getting TherapyAlert stable enough for daily use.
+Just started in pentesting at HiSolutions, and getting Quick Share for Dux Shell into the official plugin registry. Before that it was ChonkyFlipper and the mail client selftest.
 
 ---
 
