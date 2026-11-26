@@ -45,7 +45,7 @@ text { font-family: ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Cons
 <text x="389" y="142.5" xml:space="preserve"><tspan class="label">Work:</tspan><tspan class="dim">............</tspan><tspan class="value">Pentesting working student at HiSolutions</tspan></text>
 <text x="389" y="162.5" xml:space="preserve"><tspan class="value"></tspan></text>
 <text x="389" y="182.5" xml:space="preserve"><tspan class="header">- Languages </tspan><tspan class="rule">----------------------------------------------</tspan></text>
-<text x="389" y="202.5" xml:space="preserve"><tspan class="label">Programming:</tspan><tspan class="dim">.......</tspan><tspan class="value">Python, JavaScript, QML, Rust, Java, C#</tspan></text>
+<text x="389" y="202.5" xml:space="preserve"><tspan class="label">Programming:</tspan><tspan class="dim">.......</tspan><tspan class="value">Python, JavaScript, Rust, QML, Java, C#</tspan></text>
 <text x="389" y="222.5" xml:space="preserve"><tspan class="label">Real:</tspan><tspan class="dim">......................................</tspan><tspan class="value">English, German</tspan></text>
 <text x="389" y="242.5" xml:space="preserve"><tspan class="value"></tspan></text>
 <text x="389" y="262.5" xml:space="preserve"><tspan class="header">- Hobbies </tspan><tspan class="rule">------------------------------------------------</tspan></text>
@@ -61,6 +61,6 @@ text { font-family: ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Cons
 <text x="389" y="462.5" xml:space="preserve"><tspan class="value"></tspan></text>
 <text x="389" y="482.5" xml:space="preserve"><tspan class="header">- GitHub Stats </tspan><tspan class="rule">-------------------------------------------</tspan></text>
 <text x="389" y="502.5" xml:space="preserve"><tspan class="label">Repos: 15</tspan><tspan class="dim">   </tspan><tspan class="label">Stars: 0</tspan><tspan class="dim">   </tspan><tspan class="label">Followers: 6</tspan></text>
-<text x="389" y="522.5" xml:space="preserve"><tspan class="label">Commits:</tspan><tspan class="dim">...............................................</tspan><tspan class="value">644</tspan></text>
-<text x="389" y="542.5" xml:space="preserve"><tspan class="label">Lines of Code on GitHub:</tspan><tspan class="dim">..</tspan><tspan class="value">864,732 </tspan><tspan class="dim">( </tspan><tspan class="plus">829,252++</tspan><tspan class="value">,  </tspan><tspan class="minus">35,480--</tspan><tspan class="dim"> )</tspan></text>
+<text x="389" y="522.5" xml:space="preserve"><tspan class="label">Commits:</tspan><tspan class="dim">...............................................</tspan><tspan class="value">647</tspan></text>
+<text x="389" y="542.5" xml:space="preserve"><tspan class="label">Lines of Code on GitHub:</tspan><tspan class="dim">..</tspan><tspan class="value">865,035 </tspan><tspan class="dim">( </tspan><tspan class="plus">829,421++</tspan><tspan class="value">,  </tspan><tspan class="minus">35,614--</tspan><tspan class="dim"> )</tspan></text>
 </svg>
